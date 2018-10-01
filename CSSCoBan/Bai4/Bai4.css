@@ -1,0 +1,42 @@
+p.class1{
+    text-decoration: overline;
+}
+p.class2{
+    text-decoration: underline;
+}
+p.class3{
+
+    text-decoration:  overline underline line-through;
+}
+p.class4{
+    text-indent: 15%;
+    background: blue;
+    color: white;
+}
+#class4 p{
+    text-indent: 15%;
+    text-overflow: clip;
+    overflow: hidden;
+    white-space: nowrap;
+}
+p.class5{
+    text-transform: capitalize;
+}
+p.class6{
+    text-transform: uppercase;
+}
+p.class7{
+    text-transform: lowercase;
+}
+p.ten{
+    text-shadow: blue 2px 3px 4px;
+    font-size: 25px;
+}
+p#title{
+    text-shadow: blue 2px 3px 4px;
+    color:  white;
+}
+p#multi-shaw{
+    text-shadow: red 2px -1px 3px, blue -2px 1px 2px;
+    color: white;
+}

@@ -1,0 +1,30 @@
+p{
+    font-size: 72pt;
+}
+div#hinh{
+    border: 1px solid blue;
+    margin: 0 20% 0 20%;
+}
+p#em{
+    font-size: 2em;
+}
+div#px{
+    width: 500px;
+    height: 100px;
+    background: red;
+
+    display: -moz-box;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -moz-box-align: center;
+    display: box;
+    box-pack: center;
+    box-align: ceter;
+}
+div#percent{
+    width: 50%;
+    height: 350%;
+    background: blue;
+}

@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+#tieude1{
+    color: blue;
+}
+.tieude2{
+    color:red;
+}
+#menu{
+    color: red;
+    list-style-type: square;
+}
+#menu1 ul ul > li{
+    color: blue;
+}
