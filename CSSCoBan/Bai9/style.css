@@ -1,0 +1,7 @@
+div{
+    background: red;
+    max-height: 500px;
+    max-width: 500pt;
+    min-width: 100px;
+    min-height: 300px;
+}

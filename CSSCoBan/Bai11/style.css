@@ -1,0 +1,14 @@
+div#content1{
+    background-color: yellow;
+    border: 3px solid red;
+}
+div#content2{
+    background-image: url('Anh1.jpg'), url("chuctet1969.jpg");
+    width: 500px;
+    height: 500px;
+    padding: 55px;
+    background-repeat: no-repeat;
+    background-position: bottom left, top right;
+    background-size: 100px, 400px;
+
+}
