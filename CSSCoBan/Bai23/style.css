@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+    height: 200px;
+    background: red;
+    transition: all 1s;
+    -moz-transition: all 1s;
+    -webkit-transition: all 1s;
+}
+img:hover{
+    transform: rotate(3turn) ; /* translate(35px, 50%) di chuyển,rotate(90deg)xoay,skewY(25deg) nghiêng,  scale(3)phóng to*/
+    transform-origin: 100% 100%;
+}

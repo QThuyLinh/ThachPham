@@ -1,0 +1,20 @@
+a{
+    color: red;
+    text-decoration: none;
+}
+a:hover{
+    color: green;
+    font-weight: bold;
+    display: block;
+    width: 500px;
+    background: black;
+}
+a:visited{
+    color: purple;
+}
+a:link{
+    color: blue;
+}
+a:active{
+    background: yellow;
+}
